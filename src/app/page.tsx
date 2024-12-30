@@ -10,7 +10,6 @@ import {
 export default function Home() {
   return (
     <>
-      <title>Vinicius Abreu</title>
       <div className="min-h-screen bg-gray-50">
         {/* Header/Hero Section */}
         <header className="bg-gradient-to-r from-blue-600 to-blue-800 text-white">
