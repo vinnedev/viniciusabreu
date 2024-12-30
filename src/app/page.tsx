@@ -135,7 +135,7 @@ export default function Home() {
         {/* Footer */}
         <footer className="bg-gray-900 text-white py-8">
           <div className="container mx-auto px-6 text-center">
-            <p className="mb-4">Let's work together</p>
+            <p className="mb-4">Let&apos;s work together</p>
             <div className="flex justify-center gap-4">
               <a
                 href="https://github.com/vinnedev"
