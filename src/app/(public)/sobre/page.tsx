@@ -9,7 +9,7 @@ import {
   Terminal,
 } from "lucide-react";
 
-export default function Home() {
+export default function Sobre() {
   return (
     <>
       <div className="min-h-screen bg-gray-50">
